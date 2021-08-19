@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<ldml draft="true">
+	<identity>
+		<version number="$Revision: 1.4 $"/>
+		<generation date="$Date: 2005/06/01 01:24:23 $"/>
+		<language type="bs"/>
+		<territory type="BA"/>
+	</identity>
+</ldml>
+
